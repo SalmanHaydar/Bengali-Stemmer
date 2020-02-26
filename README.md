@@ -1,7 +1,7 @@
 # Bengali-Stemmer
 
 Language is ambigious. A simple word might have lots of form f.e. the word "give" can be "given", "gave". But both words has a common root which is "give".
-So, in NLP when we represnt sentence in a vector space it helps to reduce the ambiguity if we only represnt each word bu it's root only.
+So, in NLP when we represnt sentence in a vector space it helps to reduce the ambiguity if we only represnt each word with it's root only.
 This process is called Stemming. To know more please follow this Wikipedia link https://en.wikipedia.org/wiki/Stemming .
 
 But for Bangla it is not easier to implement stemmer. Because, While Bengali has 49 letters (to be more specific 11 vowels and 38 consonants) 
